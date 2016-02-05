@@ -1,0 +1,24 @@
+{
+  "name": "night-crawler",
+  "version": "0.0.1",
+  "description": "server-side site prerender",
+  "main": "index.js",
+  "author": {
+    "name": "SuperPaintman",
+    "email": "SuperPaintmanDeveloper@gmail.com",
+    "url": "http://flatdev.ru/"
+  },
+  "scripts": {},
+  "keywords": [
+    "javascript prerender",
+    "angular prerender",
+    "angularjs prerender",
+    "server-side prerender",
+    "prerender"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperPaintman/night-crawler.git"
+  }
+}
