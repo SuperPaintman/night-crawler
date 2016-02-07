@@ -61,7 +61,7 @@ module.exports = function (options) {
 
       renderPage(url)
       .then((data) => {
-        res.status(data.status).send(data.html);
+        res.send(data.html);
       })
       .catch((err) => {
         /** Bypass */
