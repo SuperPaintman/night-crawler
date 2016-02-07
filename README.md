@@ -8,7 +8,7 @@
 
 [![Logo](/README/logo.png)][npm-url]
 
-Server-side site prerender
+Server-side JavaScript site prerender
 
 --------------------------------------------------------------------------------
 

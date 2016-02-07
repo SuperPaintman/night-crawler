@@ -1,7 +1,7 @@
 {
   "name": "night-crawler",
-  "version": "0.0.4",
-  "description": "server-side site prerender",
+  "version": "0.0.5",
+  "description": "Server-side JavaScript site prerender",
   "main": "./lib/crawler.js",
   "author": {
     "name": "SuperPaintman",
