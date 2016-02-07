@@ -1,14 +1,7 @@
-# Modules
 node_modules/
-
-# Coverage
 coverage/
 
-# Log
 *.log
-
-# Psd
 *.psd
 
-# Tmp
 .tmp/
